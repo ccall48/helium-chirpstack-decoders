@@ -1,19 +1,6 @@
 ## EM300-TH
-
-Temperature & Humidity Sensor
-
-IP67 Waterproof<br />
-LoRaWAN® Wireless<br />
-5/10 Years Battery Life<br />
-NFC for Configuring<br />
-
-![EM300-TH!](https://thedxshop.com/wp-content/uploads/2021/10/em300-th.jpeg)
-
-[EM300-TH](https://www.milesight-iot.com/lorawan/sensor/em300-th)
-
-## Example Payload Decoders
+#### Example Payload Decoders
 Cayenne compatible: Yes/No/Unknown
-
 ```js
 /*
  * Payload Decoder for Chirpstack and Milesight network server

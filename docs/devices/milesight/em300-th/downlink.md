@@ -1,3 +1,5 @@
 ## EM300-TH Downlink
 
-reset: ff0000
+#### Restart Device
+
+#### Change Reporting Interval

@@ -1,8 +1,24 @@
-site_name: My Docs
-
 site_name: Helium Chirpstack Decoders
+
 theme:
-  name: readthedocs
-markdown_extensions:
-  - footnotes
-  - tables
+  name: material
+
+#nav:
+#  - Home: index.md
+#  #- about: about.md
+#  - Devices:
+#    - Milesight:
+#      - EM300-TH:
+#        - Device: devices/milesight/em300-th/device.md
+#        - Downlink Encoder: devices/milesight/em300-th/downlink.md
+#        - Uplink Decoder: devices/milesight/em300-th/uplink.md
+#    - SenseCAP:
+#      - S2100:
+#        - Device: devices/sensecap/s2100/device.md
+#        - Downlink Encoder: devices/sensecap/s2100/downlink.md
+#        - Uplink Decoder: devices/sensecap/s2100/uplink.md
+#    - Vega:
+#      - SI-11:
+#        - Device: devices/vega/si-11/device.md
+#        - Downlink Encoder: devices/vega/si-11/downlink.md
+#        - Uplink Decoder: devices/vega/si-11/uplink.md
